@@ -7,4 +7,5 @@ it finds all the potential employers on websites and keep all the data needed.
 - site used: 1688mel.com
 - info recorded: name, company name, phone no., business category, city
 - selenium chrome driver used
+- driver downloaded from https://chromedriver.storage.googleapis.com/index.html
 - put chromedriver under /usr/local/bin
