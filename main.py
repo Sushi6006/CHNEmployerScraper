@@ -30,7 +30,7 @@ class Info:
         self.name = name
         phone = phone.replace(" ", "")
         self.phone = phone[0:4] + ' ' + phone[4:7] + ' ' + phone[7:]
-        self.industry = industry
+        self.industry = industry`
         self.company = company
 
 
